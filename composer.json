@@ -29,6 +29,9 @@
          "url": "https://sourceforge.net/projects/htmlawed/files"
         }
     ],
+    "autoload": {
+        "files": ["htmLawed.php"]
+    },
     "support": {
         "docs": "https://bioinformatics.org/phplabware/internal_utilities/htmLawed",
         "forum": "https://bioinformatics.org/phplabware/internal_utilities/htmLawed",
